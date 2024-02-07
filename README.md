@@ -1,4 +1,4 @@
-# detona-ralph
+# Detona Ralph
 
 ## Primeiro jogo com javascript
 
