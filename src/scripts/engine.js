@@ -16,6 +16,12 @@ const state = {
     }
 }
 
+function playAudio(audioName) {
+    let audio = new Audio(`./src/audios/${audioName}.m4a`);
+    audio.volume = 0.2;
+    audio.play();
+}
+
 function countDown() {
     state.values.currentTime--;
     state.view.timeLeft.textContent = state.values.currentTime;
@@ -45,6 +51,7 @@ function addListenerHitBox() {
                 state.values.result++;
                 state.view.score.textContent = state.values.result;
                 state.values.hitPosition = null;
+                playAudio('hit');
             }
         });
     });
