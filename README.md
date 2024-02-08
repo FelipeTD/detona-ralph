@@ -33,3 +33,8 @@
 
 ### Implementando as views e values
 - Adicionando lógica para o inimigo mudar de lugar a cada 1 segundo
+
+### Implementando o listener de hitbox
+- Foi adicionado um listener para ouvir cliques do mouse
+- Se o inimigo estiver no quadrado que clicamos vai aumentar a pontuação
+
