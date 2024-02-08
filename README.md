@@ -38,3 +38,7 @@
 - Foi adicionado um listener para ouvir cliques do mouse
 - Se o inimigo estiver no quadrado que clicamos vai aumentar a pontuação
 
+### Implementando actions
+- Foi criado um objeto actions para deixar o código mais organizado
+
+### Implementando áudio e revisão de conceitos
