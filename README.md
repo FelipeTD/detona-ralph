@@ -31,5 +31,5 @@
 - Views utilizado no jogo visivel
 - Values código que está rodando sem o jogador ver
 
-### Implementando o listener de hitbox
+### Implementando as views e values
 - Adicionando lógica para o inimigo mudar de lugar a cada 1 segundo
