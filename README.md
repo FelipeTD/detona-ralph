@@ -42,3 +42,9 @@
 - Foi criado um objeto actions para deixar o código mais organizado
 
 ### Implementando áudio e revisão de conceitos
+- Adicionado áudio e revisando código
+
+### Extras
+- Adicionado perda de vidas
+- Diminuído o tempo que o inimigo fica em um quadro
+- Adicionado parte de recordes
