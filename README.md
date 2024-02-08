@@ -26,3 +26,10 @@
 
 ### Pegando elementos específicos do CSS
 - Ajustando CSS do menu
+
+### Explicando o conceito de variáveis view e values
+- Views utilizado no jogo visivel
+- Values código que está rodando sem o jogador ver
+
+### Implementando o listener de hitbox
+- Adicionando lógica para o inimigo mudar de lugar a cada 1 segundo
